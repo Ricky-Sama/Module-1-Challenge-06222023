@@ -24,15 +24,13 @@ header h1 .seo {
     color: #d9dcd6;
 }
 
-nav  {
+nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
-
-
 
 li {
     display: inline-block;
@@ -65,8 +63,6 @@ img {
     float: right;
     margin-left: 25px;
 }
-
-
 
 .benefits {
     margin-right: 20px;
