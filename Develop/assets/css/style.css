@@ -89,7 +89,7 @@ img {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
+/* color and property code for aside elements */
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
@@ -110,7 +110,7 @@ h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-
+/* footer code for property, font, and color */
 footer {
     padding: 20px;
     clear: both;
