@@ -28,3 +28,6 @@ THEN I find a concise, descriptive title
 The following image shows the web application's appearance and functionality:
 
 ![Alt text](assets/01-html-css-git-homework-demo.png)
+
+Link to deployed website
+https://ricky-sama.github.io/Module-1-Challenge-06222023/
